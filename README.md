@@ -24,10 +24,5 @@ The app uses image optimization techniques with the `cached_network_image` libra
 
 The app uses the `streamproviders` package to automatically handle memory and dispose of all data after the widget lifecycle is over. This helps to prevent unnecessary memory leaks and usage of resources, such as RAM, ROM, and battery.
 
-The app is still under development, and we plan to add many more features in the future. We are also open to feedback from other developers.
+The app is still under development, and 
 
-## Contact Information
-
-If you have any questions or feedback, please contact us at [email protected]
-
-Thank you for your interest in our test assignment!
